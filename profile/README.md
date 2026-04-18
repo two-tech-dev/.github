@@ -69,7 +69,7 @@
 
 <div align="center">
 
-| <a href="https://github.com/0xliam627"><img src="https://github.com/0xliam627.png" width="80" style="border-radius:50%"/></a> | <a href="https://github.com/ItIs-Dev"><img src="https://github.com/ItIs-Dev.png" width="80" style="border-radius:50%"/></a> | <a href="https://github.com/junggamyeon"><img src="https://github.com/junggamyeon.png" width="80" style="border-radius:50%"/></a> |
+| <a href="https://github.com/0xliam627"><img src="https://github.com/0xliam627.png" width="80" style="border-radius:50%"/></a> | <a href="https://github.com/ItIs-Dev"><img src="https://github.com/CYooBin10.png" width="80" style="border-radius:50%"/></a> | <a href="https://github.com/junggamyeon"><img src="https://github.com/junggamyeon.png" width="80" style="border-radius:50%"/></a> |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
 |                                        **[@0xliam627](https://github.com/0xliam627)**                                         |                                        **[@CYooBin10](https://github.com/CYooBin10)**                                         |                                        **[@junggamyeon](https://github.com/junggamyeon)**                                         |
 
