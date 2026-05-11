@@ -86,5 +86,5 @@
 ---
 
 <div align="center">
-<sub>Built with ❤️ in Vietnam 🇻🇳 · <a href="https://2tech.studio">2tech.studio</a></sub>
+<sub>Built with ❤️ on Earth 🌍 · <a href="https://2tech.studio">2tech.studio</a></sub>
 </div>
