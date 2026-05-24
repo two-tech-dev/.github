@@ -73,9 +73,9 @@
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
 | **[@0xliam627](https://github.com/0xliam627)** | **[@CYooBin10](https://github.com/CYooBin10)** | **[@junggamyeon](https://github.com/junggamyeon)** |
 
-| <a href="https://github.com/ClickedTran"><img src="https://github.com/ClickedTran.png" width="80" style="border-radius:50%"/></a> | <a href="https://github.com/VennDev"><img src="https://github.com/VennDev.png" width="80" style="border-radius:50%"/></a> | <a href="https://github.com/Fuzuto"><img src="https://github.com/Fuzuto.png" width="80" style="border-radius:50%"/></a> |
+| <a href="https://github.com/ClickedTran"><img src="https://github.com/ClickedTran.png" width="80" style="border-radius:50%"/></a> | <a href="https://github.com/VennDev"><img src="https://github.com/VennDev.png" width="80" style="border-radius:50%"/></a> | <a href="https://github.com/Ngducok"><img src="https://github.com/Ngducok.png" width="80" style="border-radius:50%"/></a> |
 | :-------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
-| **[@ClickedTran](https://github.com/ClickedTran)** | **[@VennDev](https://github.com/VennDev)** | **[@Fuzuto](https://github.com/Fuzuto)** |
+| **[@ClickedTran](https://github.com/ClickedTran)** | **[@VennDev](https://github.com/VennDev)** | **[@Ngducok](https://github.com/Ngducok)** |
 
 | <a href="https://github.com/Rezn1r"><img src="https://github.com/Rezn1r.png" width="80" style="border-radius:50%"/></a> |
 | :---------------------------------------------------------------------------------------------------------------------: |
